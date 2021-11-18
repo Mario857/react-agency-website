@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Build and Deploy
-
+    environment: Dev
     steps:
       - uses: actions/checkout@master
 
