@@ -17,9 +17,9 @@ class OurTeam extends Component {
                                     <h1 className="title-font title-font-size">
                                         Our team
                                     </h1>
-                                    <p className="title-text mt-4 mb-4 title-font-2">
+                                    {/* <p className="title-text mt-4 mb-4 title-font-2">
                                     Great work, great people.
-                                    </p>
+                                    </p> */}
                                 </div>
                             </div>
                         </div>
